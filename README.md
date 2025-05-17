@@ -80,11 +80,10 @@ The dataset had a **highly imbalanced target** (default vs non-default):
 
 ## 🏁 How to Run
 
-1. Place the dataset in the correct directory: `train_data/train_data.csv`  
-2. Open `FinalApproach.ipynb` using Jupyter or any compatible IDE  
-3. Run the notebook step by step to observe preprocessing, training, and evaluation  
+1. Place the dataset in the correct directory: `train_data/train_data.csv`
+2. Datset Link:https://drive.google.com/drive/folders/1EgCaB1o9-2Pw9U4x_Z7ypC0f-Lai6fL-?
+usp=drive_link 
+3. Open `FinalApproach.ipynb` using Jupyter or any compatible IDE  
+4. Run the notebook step by step to observe preprocessing, training, and evaluation  
 
----
-
-## 📁 Project Structure
 
